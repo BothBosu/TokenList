@@ -9,10 +9,10 @@
     {
       "chainId": 1,
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
+      "name": "Sigma",
+      "symbol": "SIGMA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://postimg.cc/RNDcsW1R"
     },
     {
       "chainId": 1,
@@ -24,7 +24,7 @@
     },
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
