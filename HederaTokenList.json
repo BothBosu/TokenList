@@ -1,28 +1,28 @@
 {
-  "name": "Hedera Token List",
+  "name": "Hedera",
   "logoURI": "https://cryptologos.cc/logos/hedera-hbar-logo.png",
   "keywords": [
-    "Hedera Hashgraph"
+    "hedera"
   ],
-  "tags": {
-    "token": {
-      "name": "Hedera Tokens",
-      "description": "Tokens that are found to not be sellable on uniswap"
-    }
-  },
-  "timestamp": "2021-08-15T00:00:00+00:00",
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB475Ec91f527C6d9C7f8270Faf310D35dF59B2a8",
-      "symbol": "HBAR",
-      "name": "HEDERA",
-      "decimals": 9,
-      "logoURI": "https://cryptologos.cc/logos/hedera-hbar-logo.png",
-      "tags": [
-        "token"
-      ]
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
+    {
+      "chainId": 1,
+      "address": "0x50390975D942E83D661D4Bde43BF73B0ef27b426",
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/hedera-hbar-logo.png"
+    },
+  ],
   "version": {
     "major": 1,
     "minor": 0,
