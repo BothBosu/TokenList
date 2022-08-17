@@ -290,10 +290,10 @@
     {
       "chainId": 3,
       "address": "0x50390975D942E83D661D4Bde43BF73B0ef27b426",
-      "name": "Basic Attention Token",
-      "symbol": "BAT",
+      "name": "Hedera",
+      "symbol": "HBAR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+      "logoURI": "https://cryptologos.cc/logos/hedera-hbar-logo.png"
     },
     {
       "chainId": 3,
